@@ -38,11 +38,11 @@ Parameters amount and input_currency are required. If output_currency param is m
 ```
 
 ## Example
-In:
+Call:
 ```
 currency_converter.py --amount 100.0 --input_currency EUR --output_currency Kč
 ```
-Out:
+Result:
 ```
 {
     "input": {
