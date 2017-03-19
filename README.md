@@ -6,7 +6,7 @@ Currency convertor as a homework for kiwi.com. Program converts amount from inpu
 ## Installation
 
 Script uses Python 2.7 and its libraries: requests, json, sys, getopt. If your Python installation does not include any of them, install them using pip.
-Copy currency_converter.py and symbols.py into same folder.
+Copy `currency_converter.py` and `symbols.py` into same folder.
 
 ## Usage
 
