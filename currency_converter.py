@@ -3,6 +3,10 @@
 Created on Thu Mar 16 21:16:49 2017
 
 @author: matej
+
+Currency converter, more info:
+https://github.com/matejsoukup/currency_converter
+
 """
 
 import requests
