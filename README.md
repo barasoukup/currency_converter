@@ -10,9 +10,10 @@ Script uses Python 2.7 and its libraries: requests, json, sys, getopt. If your P
 ## Usage
 
 Run from command line with following parameters:
-'''
+
+```
 currency_converter.py --amount <float> --input_currency <3 letter currency code or symbol> --output_currency <3 letter currency code or symbol>
-'''
+```
 
 - --amount - amount which we want to convert - float
 - --input_currency - input currency - 3 letters name or currency symbol
