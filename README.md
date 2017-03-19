@@ -36,3 +36,22 @@ Parameters amount and input_currency are required. If output_currency param is m
     }
 }
 ```
+
+## Example
+In:
+```
+currency_converter.py --amount 100.0 --input_currency EUR --output_currency Kč
+```
+Out:
+```
+{
+    "input": {
+        "amount": 100.0,
+        "currency": "EUR"
+    },
+    "output": {
+        "CZK": 2702.1
+    }
+}
+
+```
